@@ -1,10 +1,10 @@
 # BUZZER_BIOS-Startup-Beep
 Programmiersprache/Language:  
 - Arudino / C#
-   
-   
-   
-   
+    
+    
+    
+    
 DE:  
 Habe für mein Arduino Programm (just 4 fun) eine möglichst realistische nachbildung der Pieptöne vom BIOS beim hochfahren gebaut.
 Habe im Netz keine Datenbank für Piezo/Buzzer Töne gefunden, daher hielt ich es für sinnvoll diese hier abzuspeichern, damit sich
