@@ -11,4 +11,4 @@ Habe im Netz keine Datenbank für Piezo/Buzzer Töne gefunden, daher hielt ich e
 nicht jeder neu diese Arbeit machen muss.
 
 EN:  
-This is the Buzzer (Piezo Speaker) Tone for BIOS at Startup. Coded for Arduino/C# Language.
+This is the Buzzer (Piezo Speaker) Tone for BIOS at Startup.
