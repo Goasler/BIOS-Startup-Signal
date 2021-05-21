@@ -1,4 +1,4 @@
-# BUZZER_BIOS-Startup-Beep
+# BIOS-Startup-Signal
 Programmiersprache/Language:  
 - Arudino / C#
     
